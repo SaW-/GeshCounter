@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">( Gesh Counter ) عداد الجيش</string>
+    <string name="action_about">عن البرنامج</string>
+    <string name="action_exit">خروج</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
